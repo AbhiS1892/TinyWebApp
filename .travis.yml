@@ -5,6 +5,6 @@ deploy:
   provider: heroku
   api_key:
     secure: 7bb98a75-884e-41ed-88ff-693120f6b8d5
-  app: TinyWebApp
+  app: tinywebapp
   on:
     repo: AbhiS1892/TinyWebApp
