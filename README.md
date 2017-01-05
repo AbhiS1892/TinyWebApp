@@ -1,3 +1,3 @@
 #TinyWebApp
 
-A Simple Web App for testing.
+A Simple Web App
